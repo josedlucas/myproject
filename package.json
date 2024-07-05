@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
       "dev": "nodemon index.js",
-      "prod": "npm index.js"
+      "prod": "node index.js"
   },
   "dependencies": {
     "express": "^4.19.2"
